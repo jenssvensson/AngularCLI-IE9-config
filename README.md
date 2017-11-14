@@ -1,3 +1,8 @@
+# Angular cli with config for IE9
+
+This is a setup that works in ie9 (polyfills added and downgraded angular cli). Tested on win 10 with basic app. No guaranties that it works all apps and packages.
+To run: Clone and `npm install` and then instructions below.
+
 # Ie9
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
